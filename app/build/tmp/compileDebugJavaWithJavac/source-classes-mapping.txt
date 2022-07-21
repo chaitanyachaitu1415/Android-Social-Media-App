@@ -1,0 +1,2 @@
+com/instagram/BuildConfig.java
+ com.instagram.BuildConfig
